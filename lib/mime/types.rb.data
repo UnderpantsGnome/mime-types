@@ -786,7 +786,7 @@ application/zip @zip :base64 'IANA,[Lindner]
 *application/vda 'LTSW
 *application/vnd.openxmlformats-officedocument.presentationml.presentation @pptx
 *application/vnd.openxmlformats-officedocument.presentationml.slideshow @ppsx
-*application/vnd.openxmlformats-officedocument.spreadsheetml.sheet @xlsx :quoted-printable
+*application/vnd.openxmlformats-officedocument.spreadsheetml.sheet @xlsx :base64
 *application/vnd.openxmlformats-officedocument.wordprocessingml.document @docx
 *application/vnd.openxmlformats-officedocument.wordprocessingml.template @dotx
 *application/vnd.stardivision.calc @sdc
